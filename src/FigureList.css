@@ -20,8 +20,8 @@
     background-color: darkgreen;
   }
 .gallery img {
-  max-width: 300px;
-  max-height: 200px;
+  max-width: 60px;
+  max-height: 70px;
   object-fit: cover;
   width: 100%; 
   height: auto; 
